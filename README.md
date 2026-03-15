@@ -1,9 +1,9 @@
-# Quick-redis-Go
+# Quick-Redis-Go
 
 ![Redis](https://img.shields.io/badge/Redis-6.0%2B-blue.svg)
 ![Go](https://img.shields.io/badge/Go-1.16%2B-blue.svg)
 
-Quick-redis-Go是一个面向Go语言后端开发人员的Redis基础知识手册及专业业务实战指南。本项目旨在帮助新入行的开发人员快速掌握Redis的核心概念、基本操作以及在实际业务场景中的应用。
+Quick-Redis-Go是一个面向Go语言后端开发人员的Redis基础知识手册及专业业务实战指南。本项目旨在帮助新入行的开发人员快速掌握Redis的核心概念、基本操作以及在实际业务场景中的应用。
 
 
 ## 📚 项目结构
