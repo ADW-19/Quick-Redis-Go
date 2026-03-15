@@ -6,6 +6,7 @@
 
 Quick-redis-Go是一个面向Go语言后端开发人员的Redis基础知识手册及专业业务实战指南。本项目旨在帮助新入行的开发人员快速掌握Redis的核心概念、基本操作以及在实际业务场景中的应用。
 
+
 ## 📚 项目结构
 
 ```
@@ -147,9 +148,6 @@ func main() {
 4. 推送到分支 (`git push origin feature/amazing-feature`)
 5. 打开Pull Request
 
-## 📄 许可证
-
-本项目采用MIT许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 🙏 致谢
 
@@ -157,9 +155,6 @@ func main() {
 - go-redis/redis库
 - 所有为Redis生态系统做出贡献的开发者
 
-## 📞 联系我们
-
-如有问题或建议，欢迎提交Issue或联系我们。
 
 ---
 
